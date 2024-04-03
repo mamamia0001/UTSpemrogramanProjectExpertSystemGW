@@ -73,8 +73,8 @@ main {
 }
 
 .food-item img {
-    width: 400px; /* Atur lebar gambar */
-    height: auto; /* Biarkan tinggi gambar disesuaikan dengan lebarnya */
+    width: 400px; 
+    height: auto; 
 }
 
 
